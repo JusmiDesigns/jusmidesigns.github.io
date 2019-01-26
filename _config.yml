@@ -3,7 +3,7 @@ title: jusmi
 subtitle: 
 email: albert@jvsmi.com
 description: I'm a freelance motion and graphics designer with a passion for creating unique and excited visuals!
-baseurl: "/forty-jekyll-theme/" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: jvsmi.com # the base hostname & protocol for your site
 author:
 
