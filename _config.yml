@@ -5,7 +5,8 @@ email: albert@jvsmi.com
 description: I'm a freelance motion and graphics designer with a passion for creating unique and excited visuals!
 baseurl: # the subpath of your site, e.g. /blog
 url: https://jvsmi.com # the base hostname & protocol for your site
-author:
+author: Al Mast
+name: Al Mast
 
 
 # homepage tiles
