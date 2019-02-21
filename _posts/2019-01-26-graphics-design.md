@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Graphics Design
-description: General Motion Graphics i've done
+description: General Graphics Design i've done
 image: assets/images/animated/bounty_hunter.gif
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Motion Graphics
 description: General Motion Graphics i've done
-image: assets/images/animated/bounty_hunter.gif
+image: assets/images/motion_graphics/mg_banner.png
 ---
 
 ___

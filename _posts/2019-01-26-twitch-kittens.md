@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TwitchKittens
-description: A collaboration between Streamlabs and the streaming team 'Twitch Kittens'
+description: A collaboration between Streamlabs and the streaming team TwitchKittens
 image: assets/images/tk/tk-banner.png
 ---
 ___
