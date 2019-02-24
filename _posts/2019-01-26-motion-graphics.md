@@ -4,11 +4,6 @@ title: Motion Graphics
 description: General Motion Graphics i've done
 image: assets/images/motion_graphics/mg_banner.png
 ---
-
-___
-
-Test test test
-
 ___
 
 <video id="vid" width="500" autoplay muted loop>
